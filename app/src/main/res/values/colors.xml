@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rojo_opaco">#f00</color>
+    <color name="rojo_transparente">#80ff0000</color>
+    <color name="cyan">#0ff</color>
+    <color name="verde">#8000ffaa</color>
+</resources>
